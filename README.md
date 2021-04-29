@@ -1,5 +1,11 @@
-This is the repository of my client website. The name of website is "E-shop".
+This is the client site repository of the website named "E-shop".
 
-In this website you can find some products on UI. Anyone can checkout a product at a time. Before checking out, you must login to the website. Then you can place the order and the information of user will save to the database.
+In this website:
 
-Here is the live client website link: https://e-shop-assignment.web.app
+● Anyone can order a product by logging into his Gmail account.
+● Customers can see their product before checkout.
+● After checkout, order detail will save to the database and the customer can see his ordered items and details on the ‘orders’ page.
+
+Check out the website: https://e-shop-assignment.web.app
+
+Here's the server site code: https://github.com/ratulkhan1428/e-shop-server
