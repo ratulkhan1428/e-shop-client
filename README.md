@@ -1,4 +1,4 @@
-This is the client site repository of the website named "E-shop".
+This is the client site repository of the website named "E-shop". Different types of products are displayed on this website. Customer can choose product and order.
 
 In this website:
 
