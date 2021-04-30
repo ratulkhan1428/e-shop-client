@@ -1,11 +1,13 @@
-This is the client site repository of the website named "E-shop". Different types of products are displayed on this website. Customer can choose product and order.
-
-In this website:
-
-● Anyone can order a product by logging into his Gmail account.
-● Customers can see their product before checkout.
-● After checkout, order detail will save to the database and the customer can see his ordered items and details on the ‘orders’ page.
+"E-shop".
 
 Check out the website: https://e-shop-assignment.web.app
 
-Here's the server site code: https://github.com/ratulkhan1428/e-shop-server
+On this website:
+
+● Different types of products are displayed. Customers can choose product and order.
+● Anyone can order a product by logging into his Gmail account.
+● Customers can see their product detail before checkout.
+● After checkout, order detail will save to the database and the customer can see his ordered items and details on the ‘orders’ page.
+● Admin can add, remove and edit products and detail.
+
+Here's the server site repository: https://github.com/ratulkhan1428/e-shop-server
